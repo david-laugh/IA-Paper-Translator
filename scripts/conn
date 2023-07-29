@@ -1,0 +1,6 @@
+docker run -it --rm \
+    --name pegasus \
+    -v /$(pwd):/app \
+    --privileged \
+    paper_translator:latest \
+    bash
