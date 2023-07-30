@@ -1,0 +1,4 @@
+wheel==0.41.0
+pypdf==3.13.0
+googletrans==4.0.0rc1
+pywebio==1.8.2

@@ -1,2 +1,7 @@
 # venv
 .venv
+
+# dev
+.eggs
+*.egg-info
+__pycache__
