@@ -11,4 +11,6 @@ RUN sudo apt-get install -y \
     python3-pip
 RUN sudo ln -s /usr/bin/python3.7 /usr/bin/python
 
+EXPOSE 2030
+
 WORKDIR /app
